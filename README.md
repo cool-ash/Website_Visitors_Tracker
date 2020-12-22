@@ -4,3 +4,6 @@
 ### Concepts used in development are:
 
 Flask Restful,MongoDB,Docker.
+
+#### Way to run(Linux):
+sudo docker-compose up
